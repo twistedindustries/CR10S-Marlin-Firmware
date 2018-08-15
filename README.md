@@ -8,3 +8,7 @@ V1.0
 - Working filament sensor
 - Updated PID tunes
 - Disabled saving z offset [had an odd issue with it reverting while printing]
+
+V1.1
+- Changed ABL to NO sensor, Inverted z endstop
+- Updated Jerk/Accel to match TH3D
